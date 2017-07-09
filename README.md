@@ -33,6 +33,7 @@ Step 2. Change column names to descriptive names.
 Step 3. Write file to disk - tidy_data.txt.  
 Step 4. Results -> q5.data  
 
-Some help data frames gets removed when the script runs, while others are left for the peer review. For further details, please view run_analysis.R file.  
+Some help data frames gets removed when the script runs, while others are left for the peer review.   
+For further details, please view run_analysis.R file.  
 
 Thanks for helping out ! /Johnny   
