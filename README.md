@@ -1,6 +1,8 @@
 # Getting And Cleaning Data Coursera
 Johnny Jensen 2017-07-09
 
+This assignment is about getting, cleaning and structuring mobile accelerometer and gyrometer data.
+
 You can run the script run_analysis.R, as long as it is located in the unzipped UCI HAR Dataset folder.
 
 Question 1 - Merges the training and the test sets to create one data set.
