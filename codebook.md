@@ -25,7 +25,7 @@ q3.data - question 3
 q4.data - question 4  
 q5.data - question 5  
 
-__FEATURE VARIABLES USED__ 
+__FEATURE VARIABLES USED__     
 Variables below have been given more descriptive column names.  
 For additional information about these feature variables, that were provide in the assignment please visit:  
 http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions  
